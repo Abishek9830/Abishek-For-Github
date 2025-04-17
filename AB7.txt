@@ -2,4 +2,8 @@ Sample to  push and pull again.........pulled from github
 added temp branch
 added backend branch
 
+<<<<<<< HEAD
 made a change through backend
+=======
+made a change again on frontend
+>>>>>>> 2a944c7b1b53f01db743f04184e681123782b084
